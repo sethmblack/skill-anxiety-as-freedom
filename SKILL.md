@@ -4,7 +4,7 @@ description: Reframe existential anxiety as the disclosure of freedom rather tha
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3401
+  version: 1.0.3402
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - anxiety-as-freedom
